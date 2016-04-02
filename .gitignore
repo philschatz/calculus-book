@@ -1,0 +1,8 @@
+/_site
+/resources/*.dbk
+/resources/*.jar
+/resources/unifiedfile*
+/resources/*.html
+/resources/*.txt
+/node_modules
+/zips
