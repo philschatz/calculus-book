@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Calculus'
-tagline:          'from http://cnx.org/contents/9a1df55a-b167-4736-b5ad-15d996704270@4.61 (CC-BY-NC-SA)'
+tagline:          'from http://cnx.org/contents/9a1df55a-b167-4736-b5ad-15d996704270@4.130 (CC-BY-NC-SA)'
 url:              https://github.com/philschatz/calculus-book
-origin:           http://cnx.org/contents/9a1df55a-b167-4736-b5ad-15d996704270@4.61
+origin:           http://cnx.org/contents/9a1df55a-b167-4736-b5ad-15d996704270@4.130
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          4.61
+version:          4.130
 
 bookviewer:       http://philschatz.com/book-viewer
 
